@@ -1,18 +1,4 @@
-<img src="https://github.com/thrasher-/gocryptotrader/blob/master/web/src/assets/page-logo.png?raw=true" width="350px" height="350px" hspace="70">
-
-[![Build Status](https://travis-ci.org/thrasher-/gocryptotrader.svg?branch=master)](https://travis-ci.org/thrasher-/gocryptotrader)
-[![Software License](https://img.shields.io/badge/License-MIT-orange.svg?style=flat-square)](https://github.com/thrasher-/gocryptotrader/blob/master/LICENSE)
-[![GoDoc](https://godoc.org/github.com/thrasher-/gocryptotrader?status.svg)](https://godoc.org/github.com/thrasher-/gocryptotrader)
-[![Coverage Status](http://codecov.io/github/thrasher-/gocryptotrader/coverage.svg?branch=master)](http://codecov.io/github/thrasher-/gocryptotrader?branch=master)
-[![Go Report Card](https://goreportcard.com/badge/github.com/thrasher-/gocryptotrader)](https://goreportcard.com/report/github.com/thrasher-/gocryptotrader)
-
-A cryptocurrency trading bot supporting multiple exchanges written in Golang.
-
-**Please note that this bot is under development and is not ready for production!**
-
-## Community
-
-Join our slack to discuss all things related to GoCryptoTrader! [GoCryptoTrader Slack](https://gocryptotrader.herokuapp.com/)
+Cryptocurrency exchange monitoring and trading.
 
 ## Exchange Support Table
 
@@ -114,55 +100,4 @@ copy config_example.json %APPDATA%\GoCryptoTrader\config.json
 
 + Make any neccessary changes to the `config.json` file.
 + Run the `gocryptotrader` binary file inside your GOPATH bin folder.
-
-## Donations
-
-<img src="https://github.com/thrasher-/gocryptotrader/blob/master/web/src/assets/donate.png?raw=true" hspace="70">
-
-If this framework helped you in any way, or you would like to support the developers working on it, please donate Bitcoin to:
-
-***1F5zVDgNjorJ51oGebSvNCrSAHpwGkUdDB***
-
-## Binaries
-
-Binaries will be published once the codebase reaches a stable condition.
-
-## Contributor List
-
-### A very special thank you to all who have contributed to this program:
-
-|User|Github|Contribution Amount|
-|--|--|--|
-| thrasher- | https://github.com/thrasher- | 489 |
-| shazbert | https://github.com/shazbert | 156 |
-| gloriousCode | https://github.com/gloriousCode | 139 |
-| ermalguni | https://github.com/ermalguni | 14 |
-| 140am | https://github.com/140am | 8 |
-| marcofranssen | https://github.com/marcofranssen | 8 |
-| cranktakular | https://github.com/cranktakular | 5 |
-| crackcomm | https://github.com/crackcomm | 3 |
-| andreygrehov | https://github.com/andreygrehov | 2 |
-| bretep | https://github.com/bretep | 2 |
-| gam-phon | https://github.com/gam-phon | 2 |
-| cornelk | https://github.com/cornelk | 2 |
-| if1live | https://github.com/if1live | 2 |
-| soxipy | https://github.com/soxipy | 2 |
-| herenow | https://github.com/herenow | 2 |
-| xtda | https://github.com/xtda | 1 |
-| blombard | https://github.com/blombard | 1 |
-| CodeLingoBot | https://github.com/CodeLingoBot | 1 |
-| daniel-cohen | https://github.com/daniel-cohen | 1 |
-| frankzougc | https://github.com/frankzougc | 1 |
-| starit | https://github.com/starit | 1 |
-| Jimexist | https://github.com/Jimexist | 1 |
-| lookfirst | https://github.com/lookfirst | 1 |
-| zeldrinn | https://github.com/zeldrinn | 1 |
-| mattkanwisher | https://github.com/mattkanwisher | 1 |
-| mKurrels | https://github.com/mKurrels | 1 |
-| m1kola | https://github.com/m1kola | 1 |
-| cavapoo2 | https://github.com/cavapoo2 | 1 |
-| tongxiaofeng | https://github.com/tongxiaofeng | 1 |
-| idealhack | https://github.com/idealhack | 1 |
-
-
 
