@@ -1,4 +1,6 @@
-Cryptocurrency exchange monitoring and trading.
+Cryptocurrency exchange monitoring.
+
+This repository aims to implement a real-time monitoring of cryptocurrency exchanges.
 
 ## Exchange Support Table
 
